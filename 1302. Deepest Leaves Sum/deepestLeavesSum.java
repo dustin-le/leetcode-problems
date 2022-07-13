@@ -30,7 +30,7 @@ public class deepestLeavesSum {
     int maxSum = 0;
 
     /*
-    * I originally did an interative approach, clueless to the more refined recursion approach.
+    * I originally did an iterative approach, clueless to the more refined recursion approach.
     * After being reminded that recursion was a much better way to do this problem, I created a recursion version.
     */
     public int deepSum_original_no_recursion(TreeNode root) {
